@@ -40,3 +40,8 @@ If the above code is stored in a file like `trigger_gcm.rb`, thats how you can c
 This gem is based on a fork of the older Google push service:
 
 * [Amro Mousa](https://github.com/amro/c2dm/)
+
+
+
+
+ABC
